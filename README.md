@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jabjubinski;
+- 👀 I’m interested in web development;
+- 🌱 I’m currently learning front-end web development (HTML, CSS, Javascript, Angular);
