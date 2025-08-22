@@ -2,5 +2,5 @@
 - 👀 I'm a web developer;
 - Frontend: React, Vite, Zustand, Tailwind CSS
 - Backend & Database: Firebase (Firestore, Authentication, Storage, Functions)
-- State Management: Zustand, React/Tanstack Query, Context API
+- State Management: Zustand, Redux, React/Tanstack Query, Context API
 - Tools & Workflow: Git/GitHub, REST APIs, npm, VS Code
