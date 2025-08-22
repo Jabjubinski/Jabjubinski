@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @jabjubinski;
 - 👀 I'm a web developer;
-- 🌱 I’m currently learning front-end web development (HTML, CSS, Javascript, Angular);
+- Frontend: React, Vite, Zustand, Tailwind CSS
+- Backend & Database: Firebase (Firestore, Authentication, Storage, Functions)
+- State Management: Zustand, React Query, Context API
+- Tools & Workflow: Git/GitHub, REST APIs, npm, VS Code
