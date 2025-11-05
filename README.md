@@ -319,15 +319,7 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/jabjubinski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jabjubinski&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
-</a>
-
 ### 🚀 Check out my repositories to see what I'm building!
-
-**Portfolio Website** • Interactive, responsive showcase of my work  
-**AI Assistant Platform** • Contributing to Georgian AI virtual assistant  
-**And more projects in progress...**
 
 </div>
 
