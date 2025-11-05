@@ -1,142 +1,160 @@
-# <div align="center"> ![typing animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3B82F6&center=true&vCenter=true&width=500&height=100&lines=Jaba+Janelidze;Fullstack+Developer+%26+Scrum+Master;3%2B+Years+Experience) </div>
+# <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waveform&color=gradient&height=300&section=header&text=Jaba%20Janelidze&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Scrum%20Master%20%7C%20Problem%20Solver&descAlignY=51&descAlign=62)
+
+</div>
 
 <div align="center">
 
-### 👨‍💻 Crafting elegant solutions with modern web technologies
+### ✨ Building beautiful, scalable web experiences with modern technologies
 
-[![Email](https://img.shields.io/badge/Email-jabajnldz.dev%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:jabajnldz.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaba%20Janelidze-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/jaba-janelidze-2517b0389/)
-[![GitHub](https://img.shields.io/badge/GitHub-jabjubinski-333333?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/jabjubinski)
-
----
-
-📍 **Tbilisi, Georgia** | 🌍 **Open to Remote & On-site Opportunities**
+[![Email](https://img.shields.io/badge/✉️%20Email-jabajnldz.dev%40gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabajnldz.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaba-janelidze-2517b0389/)
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jabjubinski)
 
 </div>
 
 ---
 
-## 📊 Stats
+## 🌟 Quick Overview
 
-<div align="center">
+<table>
+<tr>
+<td align="center" width="33%">
 
-| 🎯 | 💼 | ⭐ |
-|:---:|:---:|:---:|
-| **3+** Years Experience | **20+** Projects Delivered | **100%** Client Satisfaction |
+### 📍 Location
+**Tbilisi, Georgia**  
+🌍 Remote Ready
 
-</div>
+</td>
+<td align="center" width="33%">
 
----
+### ⚡ Experience
+**3+ Years**  
+Full-Stack Development
 
-## 🎯 About Me
+</td>
+<td align="center" width="33%">
 
-> Passionate **Fullstack Developer** with **3+ years of experience** building responsive, interactive web applications that users love. I specialize in creating seamless user experiences while maintaining clean, scalable code.
+### 🎯 Focus
+**React, Next.js**  
+**TypeScript & Node.js**
 
-I wear multiple hats — from **Developer** to **Scrum Master**, **Product Owner**, and **Freelance Consultant** — bringing a comprehensive understanding of the full development lifecycle.
-
-Currently leveraging **React**, **Next.js**, **TypeScript**, and **Node.js** to build products that matter. Driven by problem-solving, continuous learning, and delivering exceptional results in fast-paced, agile environments.
-
-### What I Do
-
-- ⚡ **Build Fast, Scalable Web Apps** — React, Next.js, TypeScript with production-grade performance
-- 🎨 **Design Pixel-Perfect UIs** — Tailwind, Framer Motion, custom CSS animations
-- 🗄️ **Develop Robust Backends** — Node.js, Express, Firebase, RESTful APIs
-- 📱 **Create Responsive Experiences** — Mobile-first design, cross-browser compatibility
-- 👥 **Lead Agile Teams** — Scrum Master, Sprint facilitation, Product ownership
-- 💡 **Solve Complex Problems** — Clean code, performance optimization, architectural best practices
-
----
-
-## 💼 Professional Experience
-
-### 🚀 Self-Employed Fullstack Developer & Consultant
-**Jan 2022 – Present** • *3+ years*
-
-- Architected and deployed full-stack applications for diverse clients across multiple industries
-- Managed projects end-to-end: requirements gathering, design, development, deployment, and maintenance
-- **Scrum Master & Product Owner** for agile team coordination and product strategy
-- Mentored junior developers and established coding standards and best practices
-
-### 💻 Fullstack Developer Intern — Resoft
-**Oct 2024 – Mar 2025**
-
-- Developed interactive, user-focused web applications using **React** and **Node.js**
-- Transitioned into Business Analyst role, analyzing user needs and shaping project roadmaps
-- Collaborated in agile sprints with cross-functional teams on complex feature implementations
-
-### 🔧 Part-time Fullstack Developer & Business Analyst — Re:Invent
-**Mar 2025 – Oct 2025**
-
-- Contributed to Georgian AI-based virtual assistant platform
-- Built and maintained responsive UI with seamless UX using modern frontend frameworks
-- Worked closely with designers and product managers to deliver new features in sprint cycles
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### 🎨 Frontend
+```javascript
+const jaba = {
+  role: "Fullstack Developer & Scrum Master",
+  passion: "Building elegant, performant web applications",
+  experience: "3+ years",
+  status: "💼 Self-employed | 🎓 Always learning",
+  
+  capabilities: {
+    frontend: ["React", "Next.js", "TypeScript", "Framer Motion"],
+    backend: ["Node.js", "Express", "Firebase", "Python"],
+    mindset: ["Problem Solver", "Team Player", "Agile Enthusiast"],
+  },
+  
+  currentlyBuilding: "Scalable web solutions with modern tech stack",
+  openTo: ["Collaborations", "Mentoring", "Interesting Projects"],
+};
+```
+
+---
+
+## 💼 Experience Timeline
+
+> **Jan 2022 – Present** | 🎯 **Self-Employed Fullstack Developer & Consultant** *(3+ Years)*
+
+- 🏗️ **Architected** full-stack applications for diverse industries
+- 📊 **Led** agile teams as Scrum Master & Product Owner
+- 🔄 **Managed** complete project lifecycle: strategy → delivery → maintenance
+- 👥 **Mentored** junior developers and established best practices
+
+> **Mar 2025 – Oct 2025** | **Re:Invent** — Part-time Fullstack Developer & Business Analyst
+
+- 🤖 Contributed to Georgian AI-based virtual assistant platform
+- 🎨 Built responsive interfaces with seamless UX
+- 🤝 Collaborated with designers and product managers in agile sprints
+
+> **Oct 2024 – Mar 2025** | **Resoft** — Fullstack Developer Intern
+
+- ⚙️ Developed interactive applications with React & Node.js
+- 📈 Transitioned to Business Analyst, shaping product roadmaps
+- 🔗 Engaged in cross-functional collaboration
+
+---
+
+## 🛠️ Technology Arsenal
+
+### 🎨 **Frontend Development**
 <div>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=20232a)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=235b98)
+![JavaScript ES6+](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=dba829)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </div>
 
-### 🎭 Styling & Animation
+### 🎭 **Styling & Animation**
 <div>
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Sass/SCSS](https://img.shields.io/badge/Sass%2FSCSS-C69?style=flat-square&logo=sass&logoColor=white)
-![LESS](https://img.shields.io/badge/LESS-1D365D?style=flat-square&logo=less&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=38b2ac)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white&labelColor=0d47a1)
+![Sass/SCSS](https://img.shields.io/badge/-Sass-C69?style=for-the-badge&logo=sass&logoColor=white&labelColor=bf4080)
+![LESS](https://img.shields.io/badge/-LESS-1D365D?style=flat-square&logo=less&logoColor=white)
 
 </div>
 
-### 🧠 State Management
+### 🧠 **State Management & Data**
 <div>
 
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=e1047f)
 
 </div>
 
-### 🔧 Backend & Databases
+### 🔧 **Backend & Infrastructure**
 <div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=226029)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black&labelColor=ffa500)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=306998)
 
 </div>
 
-### 💻 Programming Languages
+### 💻 **Programming Languages**
 <div>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </div>
 
-### 🚀 Essential Web Dev Tools
+### 🚀 **Developer Tools & Essentials**
 <div>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-009E60?style=flat-square&logo=api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=ca3431)
+![REST API](https://img.shields.io/badge/-REST%20API-009E60?style=flat-square)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -144,80 +162,165 @@ Currently leveraging **React**, **Next.js**, **TypeScript**, and **Node.js** to 
 
 ## 🎯 Core Competencies
 
+<table>
+<tr>
+<td>
+
 ### 💻 Development
-Full-Stack Web Development • React & Next.js • RESTful & GraphQL APIs • Database Design • Performance Optimization • Responsive Web Design • Clean Code Architecture
+- Full-Stack Web Development
+- React & Next.js Expertise
+- RESTful & GraphQL APIs
+- Database Architecture
+- Performance Optimization
+- Responsive Design
+- Clean Code Principles
 
-### 👥 Soft Skills
-Scrum Master • Product Owner • Agile Methodology • Team Leadership • Cross-functional Collaboration • Problem Solving • Mentoring • Communication
+</td>
+<td>
 
-### 📊 Project Management
-Sprint Planning • Backlog Management • Stakeholder Communication • Agile Transformation • Risk Management • Timeline Estimation • Retrospectives
+### 👥 Leadership & Agile
+- Scrum Master Certified
+- Product Owner
+- Agile Methodology
+- Team Leadership
+- Sprint Planning
+- Backlog Management
+- Cross-functional Collaboration
 
----
+</td>
+<td>
 
-## 🎓 Education & Certifications
+### 🧠 Soft Skills
+- Problem Solving
+- Mentoring & Coaching
+- Communication
+- Stakeholder Management
+- Requirements Analysis
+- Risk Management
+- Continuous Learning
 
-### 🏆 Degrees
-- **Bachelor of Science** in Geology — Ilia State University *(2024)*
-- **Master of IT Technology** — Georgian Technical University *(Expected 2025)*
-
-### 📜 Certifications & Courses
-- ✅ **CS50: Introduction to Computer Science** — Harvard University *(Ongoing)*
-- ✅ **Modern JavaScript (ES6+) Bootcamp** — Udemy
-- ✅ **IT Step Academy HTML/CSS/JavaScript/Angular Bootcamp**
-- ✅ **Agile & Scrum Fundamentals**
-
----
-
-## 🗣️ Languages
-
-| Language | Proficiency | Level |
-|:---|:---:|---:|
-| 🇬🇪 Georgian | Native | ████████████████████ |
-| 🇬🇧 English | Full Professional | ██████████████████░ |
-| 🇷🇺 Russian | Professional | ████████████████░░░ |
-| 🇸🇪 Swedish | Basic | ████░░░░░░░░░░░░░░░ |
-
----
-
-## 🚀 Currently Focused On
-
-- 🎯 Mastering **Next.js 14+** with App Router and Server Components
-- 📘 Advanced **TypeScript** patterns and type system mastery
-- 🏗️ Building scalable **microservices architectures**
-- 🎓 Deepening **Scrum Master** certifications and agile practices
-- ⚡ Performance optimization and web vitals
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub Stats
+## 🎓 Education & Growth
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🏆 **Degrees**
+
+🎓 **BS in Geology**  
+*Ilia State University* • 2024
+
+🎓 **MS in IT Technology**  
+*Georgian Technical University* • 2025
+
+</td>
+<td align="center" width="50%">
+
+#### 📚 **Certifications**
+
+✅ CS50: Intro to CS (Harvard)  
+✅ Modern JavaScript ES6+ (Udemy)  
+✅ Angular Bootcamp (IT Step)  
+✅ Agile & Scrum Fundamentals  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Languages
+
+<table>
+<tr>
+<td align="center">
+  <strong>🇬🇪 Georgian</strong><br>
+  <code>Native Speaker</code><br>
+  <img src="https://img.shields.io/badge/-████████████████████-4CAF50?style=flat" alt="native">
+</td>
+<td align="center">
+  <strong>🇬🇧 English</strong><br>
+  <code>C2 Proficiency</code><br>
+  <img src="https://img.shields.io/badge/-██████████████████░░-2196F3?style=flat" alt="c2">
+</td>
+<td align="center">
+  <strong>🇷🇺 Russian</strong><br>
+  <code>C1 Proficiency</code><br>
+  <img src="https://img.shields.io/badge/-████████████████░░░-FF9800?style=flat" alt="c1">
+</td>
+<td align="center">
+  <strong>🇸🇪 Swedish</strong><br>
+  <code>A2 Basics</code><br>
+  <img src="https://img.shields.io/badge/-████░░░░░░░░░░░░░░░-FFC107?style=flat" alt="a2">
+</td>
+</tr>
+</table>
+
+---
+
+## 🔥 What I'm Up To
+
+```
+🎯 Currently Focusing On:
+├─ 📘 Next.js 14+ with App Router & Server Components
+├─ 🏗️  Building scalable microservices architectures
+├─ ⚡ Advanced TypeScript patterns & type systems
+├─ 🎓 Deepening Scrum Master expertise
+└─ 📊 Web Performance & Core Web Vitals optimization
+```
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jabjubinski&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jabjubinski&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF)
 
 </div>
 
 ---
 
-## 💬 Let's Connect!
+## 🎨 Development Philosophy
 
-I'm always interested in discussing **new projects**, **collaborations**, **mentoring opportunities**, or just having a chat about tech and web development.
+> **"Code is not just about solving problems; it's about creating experiences that matter."**
+
+- 🎯 **User-First**: Every line of code serves the end user
+- 🏗️ **Scalable**: Built to grow and adapt with business needs
+- 🧹 **Clean**: Readable, maintainable code is a gift to future developers
+- ⚡ **Performant**: Speed and efficiency are non-negotiable
+- 🤝 **Collaborative**: Great products come from great teams
+
+---
+
+## 💬 Let's Connect & Collaborate!
 
 <div align="center">
 
-### 📞 Reach Out
+I'm passionate about building amazing things with amazing people. Whether it's a new project, a mentoring opportunity, or just a conversation about tech and innovation — I'd love to hear from you!
 
-[📧 **Email Me**](mailto:jabajnldz.dev@gmail.com) • [💼 **LinkedIn**](https://linkedin.com/in/jaba-janelidze-2517b0389/) • [💻 **GitHub**](https://github.com/jabjubinski)
+### 🚀 Reach Out
+
+**[📧 Email](mailto:jabajnldz.dev@gmail.com)** • **[💼 LinkedIn](https://linkedin.com/in/jaba-janelidze-2517b0389/)** • **[💻 GitHub](https://github.com/jabjubinski)**
 
 ---
 
 ### ⭐ Show Your Support
 
-If you find value in what you see here, please consider giving this repository a star! It helps others discover my work and means a lot to me.
+If you find value in what you see, please consider giving this repository a star! Your support means everything and helps others discover this work.
 
-**Made with ❤️ in Tbilisi, Georgia**
+<img src="https://komarev.com/ghpvc/?username=jabjubinski&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-*Last updated: November 2025*
+---
+
+**Made with ❤️ in Tbilisi, Georgia** • *Always learning, always growing* 🚀
+
+*Last Updated: November 2025*
 
 </div>
