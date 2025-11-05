@@ -2,7 +2,6 @@
 
 **Fullstack Developer** crafting beautiful, interactive web experiences with modern technologies.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jabajnldz.dev-3498db?style=for-the-badge)](https://jabajnldz.dev)
 [![Email](https://img.shields.io/badge/Email-jabajnldz.dev%40gmail.com-ea4335?style=for-the-badge)](mailto:jabajnldz.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaba%20Janelidze-0077b5?style=for-the-badge)](https://linkedin.com/in/jaba-janelidze-2517b0389/)
 [![GitHub](https://img.shields.io/badge/GitHub-jabjubinski-333333?style=for-the-badge)](https://github.com/jabjubinski)
@@ -100,7 +99,6 @@ I'm always interested in discussing new projects, collaborations, or opportuniti
 
 - **Website:** [jabajnldz.dev](https://jabajnldz.dev)
 - **Email:** [jabajnldz.dev@gmail.com](mailto:jabajnldz.dev@gmail.com)
-- **Phone:** +995 595 33 93 91
 - **LinkedIn:** [linkedin.com/in/jaba-janelidze](https://linkedin.com/in/jaba-janelidze-2517b0389/)
 - **GitHub:** [github.com/jabjubinski](https://github.com/jabjubinski)
 
