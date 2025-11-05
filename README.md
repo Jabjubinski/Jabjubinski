@@ -1,446 +1,369 @@
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jaba%20Janelidze&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&repeat=true&width=600&height=70&lines=JABA+JANELIDZE;%3E_+Fullstack+Developer;%3E_+Scrum+Master;%3E_+Problem+Solver;%3E_+3%2B+Years+Experience;%3E_+Building+The+Future)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%F0%9F%9A%80+Fullstack+Developer+%7C+React+%26+TypeScript+Expert;%E2%9A%A1+Transforming+Ideas+into+Seamless+Digital+Experiences;%F0%9F%92%A1+Clean+Code+%7C+Interactive+UIs+%7C+Agile+Mindset" alt="Typing SVG" />
+</div>
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jabjubinski&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/jabjubinski?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Excellence-00d9ff?style=for-the-badge" alt="focus" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-00d9ff?style=for-the-badge" alt="experience" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jabjubinski&custom_title=Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎯 **Impact-Driven Developer**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 **Professional Snapshot**
 
 ```typescript
-interface Experience {
-  readonly years: number;
-  readonly projectsDelivered: number;
-  readonly clientsSatisfied: string;
-  readonly teamsLed: number;
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  experience: string;
+  motto: string;
 }
 
-interface TechStack {
-  readonly frontend: string[];
-  readonly backend: string[];
-  readonly stateManagement: string[];
-  readonly databases: string[];
-  readonly languages: string[];
-  readonly tools: string[];
-  readonly essentials: string[];
-}
-
-interface DeveloperProfile {
-  readonly name: string;
-  readonly location: string;
-  readonly title: string;
-  readonly experience: Experience;
-  readonly expertise: TechStack;
-  readonly currentFocus: string[];
-  readonly philosophy: string;
-  readonly status: "actively coding" | "open to opportunities";
-  getYearsOfExperience: () => number;
-  buildSomethingAmazing: () => void;
-}
-
-const jabaDeveloperProfile: DeveloperProfile = {
+const jaba: Developer = {
   name: "Jaba Janelidze",
-  location: "🇬🇪 Tbilisi, Georgia",
-  title: "Full-Stack Developer | Scrum Master | Technical Architect",
-  
-  experience: {
-    years: 3,
-    projectsDelivered: 20,
-    clientsSatisfied: "100%",
-    teamsLed: 5
-  },
-  
-  expertise: {
-    frontend: [
-      "React", "Next.js", "TypeScript",
-      "JavaScript ES6+", "HTML5", "CSS3",
-      "Tailwind CSS", "Sass", "LESS",
-      "Framer Motion", "Responsive Design"
-    ],
-    backend: [
-      "Node.js", "Express.js", "Firebase",
-      "REST APIs", "GraphQL", "Python",
-      "Microservices", "System Design"
-    ],
-    stateManagement: [
-      "React Query", "Zustand", "Redux",
-      "Context API", "Async State Management"
-    ],
-    databases: [
-      "Firebase Realtime DB", "Cloud Firestore",
-      "MongoDB", "PostgreSQL", "MySQL", "SQLite"
-    ],
-    languages: [
-      "TypeScript", "JavaScript",
-      "Python", "C++", "C#"
-    ],
-    tools: [
-      "Git", "Docker", "VS Code",
-      "Figma", "Webpack", "Vite",
-      "Postman", "Linux", "AWS"
-    ],
-    essentials: [
-      "RESTful Architecture", "API Design Patterns",
-      "Performance Optimization", "Web Security",
-      "Testing & Quality Assurance", "Agile Methodologies",
-      "System Architecture", "Code Review Excellence"
-    ]
-  },
-  
-  currentFocus: [
-    "⚡ Mastering Next.js 14+ App Router & Server Components",
-    "🏗️  Architecting production-grade microservices systems",
-    "🎨 Advanced TypeScript patterns & type-safe ecosystems",
-    "👥 Leading cross-functional teams as Scrum Master",
-    "📊 Core Web Vitals & performance optimization",
-    "🔐 Security-first backend architecture",
-    "🚀 Building scalable, maintainable applications"
-  ],
-  
-  philosophy: "Logic builds systems. Passion drives innovation. Empathy shapes teams. Excellence is the standard. 🚀",
-  status: "actively coding",
-  
-  getYearsOfExperience: () => {
-    const startYear = 2022;
-    return new Date().getFullYear() - startYear;
-  },
-  
-  buildSomethingAmazing: () => {
-    console.log("Let's create something extraordinary together! 💡");
-  }
-} as const;
+  location: "Tbilisi, Georgia 🇬🇪",
+  role: "Fullstack Developer",
+  experience: "1+ year",
+  motto: "Clean code, seamless UX ⚡"
+};
 
-// Initialize Developer Mode
-console.log(`
-╔═══════════════════════════════════════════════════════════╗
-║  ${jabaDeveloperProfile.name.toUpperCase()} is ON THE CLOCK                    ║
-║  Status: ${jabaDeveloperProfile.status.toUpperCase()}                                  ║
-║  Experience: ${jabaDeveloperProfile.experience.years}+ Years                              ║
-║  Projects Shipped: ${jabaDeveloperProfile.experience.projectsDelivered}+                              ║
-║  Client Satisfaction: ${jabaDeveloperProfile.experience.clientsSatisfied}                          ║
-╚═══════════════════════════════════════════════════════════╝
-`);
-
-jabaDeveloperProfile.buildSomethingAmazing();
+// My superpower? Turning complex ideas
+// into intuitive, responsive web experiences
 ```
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+</td>
+<td width="50%" valign="top">
+
+### 🏆 **Achievement Highlights**
+
+<div align="center">
+
+| Area | Expertise |
+|------|-----------|
+| 🎨 Frontend | React, TypeScript, Angular |
+| 🔧 Backend | Node.js, Express, Firebase |
+| 🎯 Focus | User-Centered Design |
+| 🚀 Approach | Agile & Collaborative |
+| 🌐 Languages | 4 Languages (C2-Native) |
+
+</div>
+
+**"From design to deployment—building experiences that matter."**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Journey
+## 🚀 **Tech Arsenal**
 
-**🚀 SELF-EMPLOYED FULLSTACK DEVELOPER & CONSULTANT** | *Jan 2022 – Present*
+<details open>
+<summary><b>🎨 Frontend Core</b></summary>
+<br/>
 
-```
-Status: 3+ Years of Excellence
-├─ 20+ Production Applications Shipped
-├─ 5+ Teams Led as Scrum Master & Product Owner
-├─ 100% Client Satisfaction Rate
-├─ $500K+ Client Revenue Generated
-└─ 10+ Junior Developers Mentored
-```
+<div align="center">
 
-**Key Achievements:**
-- 🎯 Architected scalable solutions handling 100K+ monthly users
-- 📈 Reduced production bugs by 85% through rigorous code quality practices
-- ⚡ Optimized application performance (90+ Lighthouse scores consistently)
-- 🏆 Led agile transformation initiatives across multiple organizations
-- 💡 Pioneered full-stack development patterns adopted by teams
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-**🌟 RE:INVENT** | *Mar 2025 – Oct 2025*
-```
-Georgian AI-Powered Virtual Assistant Platform
-├─ Engineered responsive UI/UX increasing engagement 45%
-├─ Led 8-person agile team through sprint cycles
-├─ Implemented real-time features with WebSockets
-└─ Database optimization reducing query time 60%
-```
+</div>
+</details>
 
-**💻 RESOFT** | *Oct 2024 – Mar 2025*
-```
-Full-Stack Development & Business Analysis
-├─ Shipped 6+ production features React/Node.js
-├─ Performance optimization (load time ↓ 60%)
-├─ Transitioned to Business Analyst role
-└─ Cross-functional team collaboration
-```
+<details open>
+<summary><b>⚛️ Frameworks & Libraries</b></summary>
+<br/>
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<div align="center">
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+</div>
+</details>
 
----
+<details open>
+<summary><b>🔄 State & Data Management</b></summary>
+<br/>
 
-## 🛠️ Technology Mastery
+<div align="center">
 
-**Frontend Architecture:**
-```
-React → Next.js → TypeScript → Tailwind CSS → Framer Motion
-        ↓
-   High-Performance SPAs & SSR Applications
-   Pixel-Perfect Responsive Design
-   Smooth Micro-Interactions & Animations
-   99+ Lighthouse Scores
-```
+![Zustand](https://img.shields.io/badge/Zustand-%23593d88.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**Backend Expertise:**
-```
-Node.js + Express → Firebase/Firestore → GraphQL/REST APIs
-        ↓
-   Scalable Microservices Architecture
-   Real-Time Data Synchronization
-   Database Optimization & Query Performance
-   Security-First Design Patterns
-```
+</div>
+</details>
 
-**State Management & Data:**
-```
-React Query + Zustand + Redux
-        ↓
-   Normalized State Management
-   Optimistic Updates & Caching
-   Async Operations Excellence
-   Type-Safe Data Flow
-```
+<details open>
+<summary><b>🎨 Design & UI/UX</b></summary>
+<br/>
 
-**Database Expertise:**
-- Firebase Realtime Database & Firestore (Real-time syncing)
-- MongoDB (Document-based, flexible schemas)
-- PostgreSQL (Relational, ACID-compliant)
-- MySQL & SQLite (Lightweight solutions)
+<div align="center">
 
-**Languages & Paradigms:**
-- **TypeScript** (Type-safe, production-grade)
-- **JavaScript ES6+** (Modern async/await, functional)
-- **Python** (Data processing, scripting, ML basics)
-- **C++** (Systems programming, performance-critical)
-- **C#** (Windows desktop, enterprise applications)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive%20Design-00d9ff?style=for-the-badge&logo=responsive&logoColor=white)
 
-**Developer Tools & Infrastructure:**
-- Git & GitHub (Version control mastery)
-- Docker (Containerization & deployment)
-- Webpack & Vite (Module bundling & optimization)
-- VS Code (Productivity maximized)
-- Figma (Design-to-code workflows)
-- Linux (Command-line proficiency)
+</div>
+</details>
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<details open>
+<summary><b>🛠️ Tools & Other Technologies</b></summary>
+<br/>
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+<div align="center">
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+</div>
+</details>
 
 ---
 
-## 🎯 Core Competencies
+## 💡 **What I Bring to Your Team**
 
-╔════════════════════════════════════════════════════════════════════╗
-║                   FULL-STACK DEVELOPMENT MASTERY                   ║
-╠════════════════════════════════════════════════════════════════════╣
-║                                                                    ║
-║  🎨 FRONTEND EXCELLENCE                                           ║
-║     → React & Next.js Architecture                                ║
-║     → Server-Side Rendering (SSR) & Static Generation (SSG)      ║
-║     → Responsive Design & Mobile-First Approach                  ║
-║     → Performance Optimization (90+ Lighthouse scores)            ║
-║     → Accessible & Semantic HTML                                 ║
-║     → Smooth Animations with Framer Motion                       ║
-║                                                                    ║
-║  🔧 BACKEND ARCHITECTURE                                          ║
-║     → RESTful API Design & Implementation                         ║
-║     → GraphQL Schema & Query Optimization                         ║
-║     → Microservices Architecture Patterns                         ║
-║     → Authentication & Authorization (JWT, OAuth)                ║
-║     → Real-Time Data with WebSockets                             ║
-║     → Error Handling & Logging Systems                           ║
-║                                                                    ║
-║  👥 AGILE LEADERSHIP & SCRUM                                      ║
-║     → Scrum Master Certification & Expertise                      ║
-║     → Product Owner Experience & Vision                           ║
-║     → Sprint Planning & Estimation                               ║
-║     → Team Coaching & Mentorship                                 ║
-║     → Stakeholder Communication & Management                     ║
-║     → Agile Transformation Implementation                        ║
-║                                                                    ║
-║  📊 PERFORMANCE & OPTIMIZATION                                    ║
-║     → Web Vitals & Core Metrics (LCP, FID, CLS)                 ║
-║     → Database Query Optimization                                ║
-║     → Caching Strategies (Client-side & Server-side)            ║
-║     → Code Splitting & Lazy Loading                             ║
-║     → Bundle Size Analysis & Reduction                           ║
-║                                                                    ║
-║  🔐 SECURITY & BEST PRACTICES                                     ║
-║     → OWASP Top 10 Knowledge                                     ║
-║     → Secure Authentication Patterns                             ║
-║     → Data Encryption & Protection                               ║
-║     → API Security & Rate Limiting                               ║
-║     → Code Review Excellence                                     ║
-║                                                                    ║
-║  🧠 SYSTEM DESIGN & ARCHITECTURE                                  ║
-║     → Scalable System Architecture                               ║
-║     → Design Patterns (MVC, MVVM, etc.)                          ║
-║     → Clean Code Principles                                      ║
-║     → SOLID Principles Application                               ║
-║     → Testing & Quality Assurance                                ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+<div align="center">
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+```mermaid
+mindmap
+  root((Jaba))
+    Technical Excellence
+      Fullstack Expertise
+      TypeScript Advocate
+      Clean Code Practitioner
+      Responsive Design Master
+    Soft Skills
+      Cross-functional Collaborator
+      Quick Learner
+      Adaptable Mindset
+      Clear Communicator
+    Results
+      User-Focused Solutions
+      Agile Development
+      Seamless UX
+      Quality Delivery
+```
+
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Technical_Skills-FF6B6B?style=for-the-badge&logoColor=white" />
+
+**Problem-Solving** • **Full Stack Development**  
+**API Integration** • **Responsive Design**  
+**Agile Methodology** • **Version Control**
+
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Collaboration-4ECDC4?style=for-the-badge&logoColor=white" />
+
+**Team Player** • **Cross-functional Work**  
+**Client Communication** • **Project Management**  
+**Business Analysis** • **Documentation**
+
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/Mindset-FFE66D?style=for-the-badge&logoColor=black" />
+
+**Growth-Oriented** • **Detail-Focused**  
+**Innovative Thinker** • **User-Centered**  
+**Continuous Learner** • **Quality Advocate**
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🎓 Education, Certifications & Growth
+## 📊 **GitHub Analytics**
 
-```
-📚 FORMAL EDUCATION
-├─ 🎓 BS Geology | Ilia State University (2024)
-└─ 🎓 MS IT Technology | Georgian Technical University (2025)
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jabjubinski&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabjubinski&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+</div>
 
-📖 CERTIFICATIONS & BOOTCAMPS
-├─ CS50: Intro to Computer Science | Harvard University (Ongoing)
-├─ Modern JavaScript ES6+ | Udemy ✅
-├─ Angular & Web Development Bootcamp | IT Step Academy ✅
-├─ Agile & Scrum Fundamentals ✅
-└─ Full-Stack Development Expert Certification ✅
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabjubinski&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jabjubinski&theme=radical&utcOffset=4" />
+</div>
 
-🌱 CONTINUOUS LEARNING
-├─ Advanced TypeScript Patterns & Type Systems
-├─ System Design & Scalability
-├─ Cloud Architecture (AWS, GCP)
-├─ Microservices & Distributed Systems
-├─ DevOps & CI/CD Pipelines
-└─ Web3 & Blockchain Development
-```
-
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jabjubinski&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7&row=1" />
+</div>
 
 ---
 
-## 🌍 Languages Fluency
+## 💼 **Professional Journey**
 
-```
-🇬🇪 GEORGIAN  │ Native Fluency      │ ████████████████████ │ 100%
-🇬🇧 ENGLISH   │ C2 Proficiency      │ ██████████████████░░ │ 95%
-🇷🇺 RUSSIAN   │ C1 Proficiency      │ ████████████████░░░░ │ 85%
-🇸🇪 SWEDISH   │ A2 Basic Knowledge  │ ████░░░░░░░░░░░░░░░░ │ 35%
-```
+<div align="center">
 
-![banner](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
+### **Fullstack Developer** • 1+ Year of Innovation
 
-![banner](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
+</div>
 
----
+<table>
+<tr>
+<td width="50%">
 
-## 🚀 Current Mission & Focus
+#### 🎯 **Current & Recent Roles**
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║              PUSHING BOUNDARIES & INNOVATING                  ║
-╠═══════════════════════════════════════════════════════════════╣
-║                                                               ║
-║  🎯 TECHNICAL EXCELLENCE                                    ║
-║     ↳ Next.js 14+ with App Router & Server Components      ║
-║     ↳ Advanced TypeScript Patterns & Generics              ║
-║     ↳ Building production-grade microservices             ║
-║     ↳ Core Web Vitals optimization & monitoring           ║
-║                                                               ║
-║  👥 LEADERSHIP & MENTORING                                 ║
-║     ↳ Leading cross-functional agile teams                ║
-║     ↳ Scrum Master & Product Owner excellence             ║
-║     ↳ Coaching junior developers to mastery              ║
-║     ↳ Building high-performance team cultures            ║
-║                                                               ║
-║  💡 INNOVATION & GROWTH                                    ║
-║     ↳ Exploring Web3 & blockchain integration            ║
-║     ↳ AI integration in web applications                 ║
-║     ↳ Cloud-native architecture (AWS, GCP)               ║
-║     ↳ DevOps & CI/CD pipeline optimization               ║
-║                                                               ║
-║  📊 IMPACT & RESULTS                                       ║
-║     ↳ Shipping products that solve real problems         ║
-║     ↳ Creating delightful user experiences               ║
-║     ↳ Building sustainable, scalable systems             ║
-║     ↳ Contributing to open-source community              ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+**Re:Invent** (Mar 2025 – Oct 2025)
+- 🤖 Contributing to Georgian AI virtual assistant
+- 🎨 Building responsive web platforms
+- 🔧 Full-stack development with React & Node.js
+- 👥 Cross-functional collaboration
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+**Resoft** (Oct 2024 – Mar 2025)
+- ⚛️ Developed interactive React applications
+- 📊 Transitioned to Business Analyst role
+- 🚀 Agile team collaboration
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+</td>
+<td width="50%">
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+#### 🏆 **Key Achievements**
+
+- ✨ Built user-focused web applications
+- 🎯 Analyzed user needs & shaped roadmaps
+- 💡 Delivered seamless UX across projects
+- 🌐 Maintained responsive, accessible UIs
+- 🔄 Collaborated with designers & PMs
+- 📈 Contributed to AI-based solutions
+
+</td>
+</tr>
+</table>
 
 ---
 
-╔════════════════════════════════════════════════════════════════════╗
-║                                                                    ║
-║  "Logic is the architecture of great systems.                     ║
-║   Passion is the fuel that drives innovation.                     ║
-║   Empathy is the compass that guides teams.                       ║
-║   Excellence is not a destination, it's a journey.               ║
-║                                                                    ║
-║   Every line of code is an opportunity to create.                ║
-║   Every feature shipped is a moment to celebrate.                ║
-║   Every challenge overcome is wisdom gained.                     ║
-║   Every team member inspired is legacy built.                    ║
-║                                                                    ║
-║              💻 Code with Logic, Build with Passion              ║
-║                      Lead with Purpose 🚀                         ║
-║                                                                    ║
-╚════════════════════════════════════════════════════════════════════╝
+## 🎓 **Education & Learning**
 
-![banner](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+<div align="center">
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+| Degree | Institution | Year |
+|--------|-------------|------|
+| 🎓 Master of IT Technology | Georgian Technical University | 2025 (Expected) |
+| 🎓 Bachelor of Science in Geology | Ilia State University | 2024 |
 
-![Coding](https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png)
+</div>
 
----
+### 📚 **Certifications & Courses**
 
-## 📞 For Project Inquiries & Collaborations
+<div align="center">
 
-**📧 Email Me** → jabajnldz.dev@gmail.com
+![CS50](https://img.shields.io/badge/CS50-Harvard%20University-A41E35?style=for-the-badge&logo=harvard&logoColor=white)
+![Udemy](https://img.shields.io/badge/Modern%20JavaScript-Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+![IT Step](https://img.shields.io/badge/IT%20Step%20Academy-Bootcamp-00d9ff?style=for-the-badge)
 
-**💼 Let's Connect Professionally** → linkedin.com/in/jaba-janelidze-2517b0389/
+</div>
 
-**💻 Check Out My Code** → github.com/jabjubinski
-
-![banner](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
-
-![banner](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
+- **CS50: Introduction to Computer Science** - Harvard University *(Ongoing)*
+- **Modern JavaScript (ES6+) Bootcamp** - Udemy
+- **HTML/CSS/JavaScript/Angular Bootcamp** - IT Step Academy
 
 ---
 
-## ✨ Open To
+## 🌍 **Languages**
 
-```
-+ Full-Stack Development Projects
-+ Backend Architecture & Microservices Consulting
-+ Scrum Master & Product Owner Leadership
-+ Performance Optimization & Web Vitals Consulting
-+ Technical Mentoring & Developer Coaching
-+ Freelance & Contract Opportunities
-+ Open Source Contributions & Community
-+ Startup Technical Advisory & Strategy
-+ System Design & Architecture Consulting
-+ Innovative Ideas & Collaborative Ventures
-```
+<div align="center">
 
-![banner](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+| Language | Proficiency |
+|----------|-------------|
+| 🇬🇪 Georgian | Native |
+| 🇬🇧 English | C2 (Proficient) |
+| 🇷🇺 Russian | C1 (Advanced) |
+| 🇸🇪 Swedish | A2 (Elementary) |
 
-![banner](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
+</div>
+
+---
+
+## 🎨 **Featured Projects**
+
+<div align="center">
+
+<a href="https://github.com/jabjubinski">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jabjubinski&repo=portfolio&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+</a>
+
+### 🚀 Check out my repositories to see what I'm building!
+
+**Portfolio Website** • Interactive, responsive showcase of my work  
+**AI Assistant Platform** • Contributing to Georgian AI virtual assistant  
+**And more projects in progress...**
+
+</div>
+
+---
+
+## 📬 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaba-janelidze-2517b0389/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jabjubinski)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jabajnldz.dev@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-Call-00d9ff?style=for-the-badge&logo=phone&logoColor=white)](tel:+995595339391)
+
+</div>
+
+<div align="center">
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" />
+</div>
 
 ---
 
 <div align="center">
 
-**Made with ❤️ in Tbilisi, Georgia**
+### 💬 **Open to Opportunities**
 
-*Last Updated: November 2025*
+I'm currently open to fullstack development roles, freelance projects, and exciting collaborations.  
+Let's build something amazing together! 🚀
 
-```
-Keep coding. Keep growing. Keep shipping. 🚀
-```
+**Specializing in:** React • TypeScript • Node.js • User-Centered Design • Agile Development
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+</div>
+
+<div align="center">
+  
+**⭐ From [jabjubinski](https://github.com/jabjubinski) • Made with 💙 and lots of ☕**
 
 </div>
