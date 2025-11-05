@@ -154,23 +154,27 @@ const jaba: Developer = {
 <div align="center">
 
 ```mermaid
-mindmap
-  root((Jaba))
-    Technical Excellence
-      Fullstack Expertise
-      TypeScript Advocate
-      Clean Code Practitioner
-      Responsive Design Master
-    Soft Skills
-      Cross-functional Collaborator
-      Quick Learner
-      Adaptable Mindset
-      Clear Communicator
-    Results
-      User-Focused Solutions
-      Agile Development
-      Seamless UX
-      Quality Delivery
+graph LR
+    A[Jaba Janelidze] --> B[Technical Excellence]
+    A --> C[Collaboration]
+    A --> D[Innovation]
+    
+    B --> B1[Fullstack Development]
+    B --> B2[TypeScript & React]
+    B --> B3[Clean Architecture]
+    
+    C --> C1[Agile Teams]
+    C --> C2[Cross-functional]
+    C --> C3[Clear Communication]
+    
+    D --> D1[User-Centered Design]
+    D --> D2[Problem Solving]
+    D --> D3[Continuous Learning]
+    
+    style A fill:#00d9ff,stroke:#00d9ff,stroke-width:3px,color:#000
+    style B fill:#FF6B6B,stroke:#FF6B6B,stroke-width:2px
+    style C fill:#4ECDC4,stroke:#4ECDC4,stroke-width:2px
+    style D fill:#FFE66D,stroke:#FFE66D,stroke-width:2px,color:#000
 ```
 
 </div>
