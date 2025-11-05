@@ -42,7 +42,7 @@ const jaba: Developer = {
   name: "Jaba Janelidze",
   location: "Tbilisi, Georgia 🇬🇪",
   role: "Fullstack Developer",
-  experience: "1+ year",
+  experience: "3+ year",
   motto: "Clean code, seamless UX ⚡"
 };
 
@@ -234,7 +234,7 @@ graph LR
 
 <div align="center">
 
-### **Fullstack Developer** • 1+ Year of Innovation
+### **Fullstack Developer** • 3+ Year of Innovation
 
 </div>
 
