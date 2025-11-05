@@ -214,10 +214,10 @@ graph LR
 
 ## 📊 **GitHub Analytics**
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jabjubinski&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=jabjubinski&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-</div>
+</div> -->
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabjubinski&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" />
